@@ -17,7 +17,7 @@ SELECT EMPLOYEE_ID, DEPARTMENT_ID
 WHERE DEPARTMENT_ID = 50;
 -- ** 주의사항 ) SQL에서 비교는 등호 1개(파이썬은 ==, 여기선 =)
 --              직원ID와 부서ID는 자료형이 NUMBER형
--- 예제2 캡쳐해서 단톡방 업로드하기
+-- 예제2 캡쳐해서 단톡방 업로드하기!
 
 
 
