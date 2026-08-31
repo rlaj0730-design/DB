@@ -32,7 +32,7 @@ SELECT DEPARTMENT_ID
 -- 중복된 값 하나로 묶어주기
 SELECT DEPARTMENT_ID
   FROM EMPLOYEES
-  GROUP BY DEPARTMENT_ID;
+ GROUP BY DEPARTMENT_ID;
 --> 중복된 DEPARTMENT_ID가 하나로 합쳐짐(널값 제외 부서가 11개라는걸 알수있음)
 -- GROUP BY의 핵심 : 중복되는 값을 기준으로 여러 행을 1줄로 뭉쳐주는 것
 
