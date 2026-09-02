@@ -125,7 +125,8 @@ CREATE TABLE 부서(
     위치ID NUMBER(4)
 );
 
-부서
+SELECT *
+  FROM 부서;
 
 
 
